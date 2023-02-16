@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ibrahimBakhit
-- 👀 I’m interested in Data Science and Business Analytics, Neo4j Graph Database, Neo4j Graph Data Science
+- 👀 I’m interested in Oracle, SQL, PL/SQL, Data Science and Business Analytics, Neo4j Graph Database, Neo4j Graph Data Science
 - 📫 How to reach me at ibakhit@gmail.com
 - 🌱 
 - 💞️ 
